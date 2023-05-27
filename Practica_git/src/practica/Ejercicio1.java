@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	//cambio usuario principal
+	//cambio usuario secundario
 	
 	
 	// Constantes
