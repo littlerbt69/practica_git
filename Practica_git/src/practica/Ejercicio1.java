@@ -2,7 +2,7 @@ package practica;
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	//cambio usuario principal
+	//cambio usuario principal2
 	//cambio usuario secundario2
 	
 	
